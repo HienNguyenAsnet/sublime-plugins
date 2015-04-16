@@ -1,0 +1,25 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"CSScomb",
+		"Emmet",
+		"GitGutter",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Pandoc",
+		"QuickGotoAnything",
+		"Ruby on Rails snippets",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"Syntax Highlighting for Sass",
+		"Terminal",
+		"TrailingSpaces"
+	]
+}
